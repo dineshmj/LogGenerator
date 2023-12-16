@@ -1,0 +1,5 @@
+## CONVERSATION ## Check the support site https://www.ibm.com/docs/en/bpm/8.6.0?topic=bpmlf-websphere-application-server-warnings-in-process-center-log-file for more details
+## CONVERSATION ## This error is due to LTPA Token Expiration. Check in support docs for SECJ0371W
+## CONVERSATION ## Already addressed in the solution for ##TICKET_NUMBER##. Please refer.
+## CONVERSATION ## Please refer to https://www.ibm.com/support/pages/node/475273
+## CONVERSATION ## Check the solution provided on https://www.ibm.com/support/pages/node/475273
